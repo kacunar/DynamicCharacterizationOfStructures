@@ -3,6 +3,7 @@ n = input('Digite tiempo de prueba = ')
 f = input('Digitar frecuencia de muestreo = ')
 t = 1./f
 k = n*f 
+
 from adxl345 import ADXL345
 import time
 import xlwt
