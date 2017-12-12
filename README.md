@@ -8,4 +8,4 @@ NOTE: - adxl345.py was taken from https://github.com/pimoroni/adxl345-python/blo
 
       - adx.py use the class created in adxl345.py but was done by me. 
       
-      - This project is growing, so the codes will be constantly update.
+      - This project is developing, so the codes will be constantly update.
